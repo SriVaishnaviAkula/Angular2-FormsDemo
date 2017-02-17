@@ -31,9 +31,10 @@ npm start
 
 Steps to Build the application
 
-# development
+development
 npm run build:dev
-# production (jit)
+
+production (jit)
 npm run build:prod
 
 The npm start command first compiles the application, then simultaneously re-compiles and runs the lite-server. Both the compiler and the server watch for file changes.

@@ -21,15 +21,16 @@ Steps To Run angular Application
 npm install 
 npm start
 
+The npm start command first compiles the application, then simultaneously re-compiles and runs the lite-server. Both the compiler and the server watch for file changes
+Shut it down manually with Ctrl-C.
+
+To bundle the application
+
 # development
 npm run server
 # production
 npm run build:prod
 
 npm run server:prod
-
-The npm start command first compiles the application, then simultaneously re-compiles and runs the lite-server. Both the compiler and the server watch for file changes.
-
-Shut it down manually with Ctrl-C.
 
 You're ready to write your application.

@@ -1,8 +1,8 @@
-Angular2-FormsDemo
+# Angular2-FormsDemo
 
 This repository holds the source code of the angular.io Angular2 Creating a sample form which holds basic details of the user itincludes capturing basic information like name,Email,Address and also includes capturing signature from the user and displaying the information when the form is submited.
 
-Prerequisites
+# Prerequisites
 
 Node.js and npm are essential to Angular development.
 
@@ -18,7 +18,14 @@ You could start writing code now and throw it all away when you're done. If you'
 
 Steps To Run angular Application
 
-npm install npm start
+npm install 
+npm start
+
+# development
+npm run server
+# production
+npm run build:prod
+npm run server:prod
 
 The npm start command first compiles the application, then simultaneously re-compiles and runs the lite-server. Both the compiler and the server watch for file changes.
 

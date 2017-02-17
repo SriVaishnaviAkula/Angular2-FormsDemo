@@ -25,6 +25,7 @@ npm start
 npm run server
 # production
 npm run build:prod
+
 npm run server:prod
 
 The npm start command first compiles the application, then simultaneously re-compiles and runs the lite-server. Both the compiler and the server watch for file changes.

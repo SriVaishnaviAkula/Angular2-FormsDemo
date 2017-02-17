@@ -1,13 +1,14 @@
 # Angular2-FormsDemo
 
 This repository holds the source code of the angular.io Angular2 Creating a sample form which holds basic details of the user. it includes capturing basic information like name,Email,Address and also includes capturing signature from the user and displaying the information when the form is submited.this is desined Using Webpack 2 for building our files and assisting with boilerplate.
-
-Best practices in file and application organization for Angular 2.
-Ready to go build system using Webpack for working with TypeScript.
-Angular 2 examples that are ready to go when experimenting with Angular 2.
-Tree shaking to automatically remove unused code from your production bundle.
-Webpack DLLs dramatically speed your development builds.
-Angular 4 support via changing package.json and any future Angular versions
+<ul>
+<li>Best practices in file and application organization for Angular 2.</li>
+<li>Ready to go build system using Webpack for working with TypeScript.</li>
+<li>Angular 2 examples that are ready to go when experimenting with Angular 2.</li>
+<li>Tree shaking to automatically remove unused code from your production bundle.</li>
+<li>Webpack DLLs dramatically speed your development builds.</li>
+<li>Angular 4 support via changing package.json and any future Angular versions</li>
+<ul>
 
 # Prerequisites
 
